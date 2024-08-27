@@ -1,14 +1,14 @@
 /*general body style*/
 body{
-    background-color: yellow;
+    background-color: pink;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif
 }
 /*header styles */
 header{
-    background-color: darkblue;
-    color: yellow;
+    background-color: white;
+    color: blue;
     text-align: center;
     padding: 30px;
 }
@@ -27,7 +27,7 @@ border-radius: 50%;
 /*Navbar Styling*/
 nav{
     background-color: yellow;
-    color: darkblue;
+    color: pink;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -52,9 +52,9 @@ nav ul li a:hover{
 }
 /*Button styling*/
 button{
-    background-color: darkblue;
+    background-color: pink;
     border: none;
-    color:yellow;
+    color:blue;
     cursor: pointer;
     padding: 10px 20px;
     text-decoration: none;
@@ -62,7 +62,7 @@ button{
     font-weight: bold;
 }
 button:hover{
-    background-color: darkblue;
+    background-color: white;
 }
 /* Responsive Design */
     @media (max-width: 768px){
